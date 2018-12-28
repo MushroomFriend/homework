@@ -1,0 +1,8 @@
+Improve assignment 2 using array list and using only 1 loop.
++ do not need to pre-calculate number of candidates.  What if I ask to 
+  find in the range of 0-27000000
++ using ArrayList to store the candidates
++ increase the size of collections as you need to.
++ Same reason as above, using multiple loops is not good
+  in term of performance and time
+  Use only 1 loop to solve the problem

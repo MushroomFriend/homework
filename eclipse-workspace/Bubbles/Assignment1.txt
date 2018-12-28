@@ -1,0 +1,14 @@
+Assignment 1:
+
+Ask user to enter a phrase
+print it out in a nice format
+
+ask user to enter a number
+get input from user
+multiply it by 5
+print result
+repeat
+
+
+
+
